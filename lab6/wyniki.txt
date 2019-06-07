@@ -1,0 +1,19 @@
+# Wyniki estymacji przedziałowej
+
+#Zadanie 2
+(3.071601, 3.228399)
+
+#Zadanie 3
+(40.68808, 49.31192)
+
+#Zadanie 4
+(5.050863, 5.749137)
+
+#Zadanie 5
+(8.897425, 23.396162)
+
+#Zadanie 7
+(0.06510739 0.13489261)
+
+#Zadanie 8
+Obliczona wielkość próby: 60
